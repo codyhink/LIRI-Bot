@@ -16,10 +16,13 @@ followed by the appropriate term you would like for that action.
 ![spotify-this image](images/Spotify.PNG)
 
 ###Concert Example
+
 ![concert-this image](images/Concert.PNG)
 
 ###Movie Example
+
 ![movie-this example](images/Movie.PNG)
 
 ###Do What it Says Example
+
 ![do-what-it-says image](images/do-what.PNG)
