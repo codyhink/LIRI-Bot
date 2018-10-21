@@ -2,7 +2,7 @@
 
 LIRI is a nodejs bot that lives in your terminal.
 
-####Enter one of the following tasks
+#### Enter one of the following tasks
 
 * spotify-this-song
 * concert-this
@@ -11,18 +11,18 @@ LIRI is a nodejs bot that lives in your terminal.
 
 followed by the appropriate term you would like for that action.
 
-###Spotify Example
+### Spotify Example
 
 ![spotify-this image](images/Spotify.PNG)
 
-###Concert Example
+### Concert Example
 
 ![concert-this image](images/Concert.PNG)
 
-###Movie Example
+### Movie Example
 
 ![movie-this example](images/Movie.PNG)
 
-###Do What it Says Example
+### Do What it Says Example
 
 ![do-what-it-says image](images/do-what.PNG)
